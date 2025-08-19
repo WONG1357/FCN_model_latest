@@ -70,6 +70,3 @@ Outputs, including model checkpoints and prediction images, are saved to `/conte
 - The code includes post-processing of segmentation masks to improve prediction quality.
 - Dice scores are computed to evaluate model performance before and after post-processing.
 
-## License
-
-This project is licensed under the MIT License.
