@@ -1,11 +1,11 @@
-# FCN-PyTorch Segmentation Project
+# FCN Segmentation Project
 
 This repository contains a PyTorch implementation of a Fully Convolutional Network (FCN) for image segmentation, designed to work with `.npy` datasets stored on Google Drive. The project is modularized into separate scripts for dataset handling, model setup, training, evaluation, and visualization, making it easy to understand and extend.
 
 ## Project Structure
 
 ```
-FCN-pytorch-project/
+FCN project/
 ├── dataset.py           # Custom dataset class for loading .npy files
 ├── model_utils.py       # Model initialization and setup
 ├── train.py             # Training and validation loop
